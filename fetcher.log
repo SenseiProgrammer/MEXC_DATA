@@ -1,0 +1,36 @@
+2025-12-26 13:48:07,755 [INFO] MEXC-Fetcher: Starting historical fetch for SOLUSDT (5m)
+2025-12-26 13:48:08,043 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-02 17:35:00
+2025-12-26 13:48:08,766 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-04 11:15:00
+2025-12-26 13:48:09,529 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-06 04:55:00
+2025-12-26 13:48:10,254 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-07 22:35:00
+2025-12-26 13:48:10,992 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-09 16:15:00
+2025-12-26 13:48:11,721 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-11 09:55:00
+2025-12-26 13:48:12,458 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-13 03:35:00
+2025-12-26 a13:48:13,177 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-14 21:15:00
+2025-12-26 13:48:13,907 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-16 14:55:00
+2025-12-26 13:48:14,644 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-18 08:35:00
+2025-12-26 13:48:15,364 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-20 02:15:00
+2025-12-26 13:48:16,099 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-21 19:55:00
+2025-12-26 13:48:16,819 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-23 13:35:00
+2025-12-26 13:48:17,554 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-25 07:15:00
+2025-12-26 13:48:18,290 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-27 00:55:00
+2025-12-26 13:48:19,010 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-28 18:35:00
+2025-12-26 13:48:19,734 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-11-30 12:15:00
+2025-12-26 13:48:20,458 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-02 05:55:00
+2025-12-26 13:48:21,182 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-03 23:35:00
+2025-12-26 13:48:21,900 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-05 17:15:00
+2025-12-26 13:48:22,623 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-07 10:55:00
+2025-12-26 13:48:23,348 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-09 04:35:00
+2025-12-26 13:48:24,069 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-10 22:15:00
+2025-12-26 13:48:24,787 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-12 15:55:00
+2025-12-26 13:48:25,505 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-14 09:35:00
+2025-12-26 13:48:26,242 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-16 03:15:00
+2025-12-26 13:48:26,962 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-17 20:55:00
+2025-12-26 13:48:27,685 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-19 14:35:00
+2025-12-26 13:48:28,400 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-21 08:15:00
+2025-12-26 13:48:29,163 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-23 01:55:00
+2025-12-26 13:48:29,878 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-24 19:35:00
+2025-12-26 13:48:30,614 [INFO] MEXC-Fetcher: Progress: Fetched up to 2025-12-25 23:55:00
+2025-12-26 13:48:31,313 [WARNING] MEXC-Fetcher: Empty response received. Jumping 1 hour forward to bypass potential gap.
+2025-12-26 13:48:31,948 [INFO] /workspaces/MEXC_DATA/fetcher.log: Successfully saved 15840 rows to SOLUSDT_5m_historical_data.csv
+2025-12-26 13:48:31,949 [INFO] MEXC-Fetcher: Historical fetch process completed.
