@@ -4,7 +4,7 @@ import time
 import logging
 import config
 
-logger = logging.getLogger("/workspaces/MEXC_DATA/fetcher.log")
+logger = logging.getLogger(__name__) # Fixed: Dynamic name
 
 def get_mexc_klines(start_time, end_time):
     params = {
