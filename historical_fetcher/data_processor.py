@@ -3,7 +3,7 @@ import pandas as pd
 import logging
 import config
 
-logger = logging.getLogger("/workspaces/MEXC_DATA/fetcher.log")
+logger = logging.getLogger(__name__) # Fixed: Dynamic name
 
 def save_to_csv(all_candles):
     if not all_candles:

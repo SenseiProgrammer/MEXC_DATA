@@ -10,12 +10,11 @@ def setup_logging():
         level=logging.INFO,
         format=log_format,
         handlers=[
-            logging.FileHandler(LOGFILE),  # Saves to file
-            logging.StreamHandler(sys.stdout)   # Prints to console
+            logging.FileHandler(LOGFILE),
+            logging.StreamHandler(sys.stdout)
         ]
     )
     return logging.getLogger("MEXC-Fetcher")
 
 def datetime_to_timestamp(date, date_format="%Y-%m-%d"):
-    
     return int(datetime.strptime(date, date_format).timestamp() * 1000)
